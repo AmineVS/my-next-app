@@ -34,7 +34,7 @@ export function Header() {
               Settings
             </a>
             <a href="/pages/chats" className="text-sm text-gray-900 hover:text-gray-600 dark:text-white dark:hover:text-gray-400">
-              mensajes
+              Mensajes
             </a>
             <a href="/pages/login" className="text-sm text-gray-900 hover:text-gray-600 dark:text-white dark:hover:text-gray-400">
               Login
